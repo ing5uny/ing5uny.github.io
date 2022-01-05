@@ -1,0 +1,24 @@
+---
+layout: post
+title: test upload
+date: "`r format(Sys.Date())`"
+category: test
+---
+# post-test
+> 안녕하세요 본 post는 test용입니다.
+
+This is code
+```ruby
+print 'hello world'
+```
+
+This is C - code
+```C
+#include <stdio.h>
+
+int main(){
+
+  printf("hello world");
+  return 0;
+}
+```
